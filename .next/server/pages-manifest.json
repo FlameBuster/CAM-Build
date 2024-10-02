@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/Login": "pages/Login.html",
+  "/_error": "pages/_error.js",
+  "/contact_us": "pages/contact_us.html",
+  "/contribute/JoinUs": "pages/contribute/JoinUs.html",
+  "/api/login": "pages/api/login.js",
+  "/contribute": "pages/contribute.html",
+  "/hoc/withAuth": "pages/hoc/withAuth.html",
+  "/": "pages/index.html",
+  "/upload": "pages/upload.html",
+  "/test": "pages/test.html",
+  "/pdf-details/pdf-details": "pages/pdf-details/pdf-details.html",
+  "/videoGallery": "pages/videoGallery.html",
+  "/uploadPdf": "pages/uploadPdf.html",
+  "/gallery": "pages/gallery.html",
+  "/uploadImg": "pages/uploadImg.html",
+  "/archives": "pages/archives.js",
+  "/delete": "pages/delete.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
